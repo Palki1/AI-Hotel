@@ -1,10 +1,13 @@
 from flask import Flask, render_template, request, jsonify
 import json
+import os
 
 app = Flask(__name__)
 
 def load_hotels():
-    with open("hotels.json", "r") as file:
+    dir_path = os.path.dirname(os.path.realpath(__file__))
+    file_path = os.path.join(dir_path, "hotels.json")
+    with open(file_path, "r") as file:
         return json.load(file)
 
 def get_price(h):
