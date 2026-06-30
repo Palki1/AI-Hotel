@@ -1,0 +1,336 @@
+[
+  {
+    "name": "The Leela Palace",
+    "address": "Chanakyapuri, Delhi",
+    "city": "Delhi",
+    "price": "₹14500/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 1",
+    "rating": "9.1",
+    "reviews": "500+"
+  },
+  {
+    "name": "Taj Mahal Palace",
+    "address": "Colaba, Mumbai",
+    "city": "Mumbai",
+    "price": "₹16000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 1",
+    "rating": "9.2",
+    "reviews": "1000+"
+  },
+  {
+    "name": "The Oberoi",
+    "address": "MG Road, Bengaluru",
+    "city": "Bengaluru",
+    "price": "₹8500/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 2",
+    "rating": "8.9",
+    "reviews": "300+"
+  },
+  {
+    "name": "ITC Grand Chola",
+    "address": "Chennai",
+    "city": "Chennai",
+    "price": "₹10000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 2",
+    "rating": "8.8",
+    "reviews": "800+"
+  },
+  {
+    "name": "Taj Krishna",
+    "address": "Hyderabad",
+    "city": "Hyderabad",
+    "price": "₹7000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 3",
+    "rating": "8.5",
+    "reviews": "400+"
+  },
+  {
+    "name": "Rambagh Palace",
+    "address": "Jaipur",
+    "city": "Jaipur",
+    "price": "₹15000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 3",
+    "rating": "9.3",
+    "reviews": "1000+"
+  },
+  {
+    "name": "The Leela Goa",
+    "address": "Goa",
+    "city": "Goa",
+    "price": "₹12000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 3",
+    "rating": "9.0",
+    "reviews": "600+"
+  },
+
+  {
+    "name": "Taj Swarna",
+    "address": "Amritsar",
+    "city": "Amritsar",
+    "price": "₹8000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 4",
+    "rating": "9.0",
+    "reviews": "300+"
+  },
+  {
+    "name": "Radisson Blu Amritsar",
+    "address": "Airport Road",
+    "city": "Amritsar",
+    "price": "₹5000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 4",
+    "rating": "8.8",
+    "reviews": "200+"
+  },
+
+  {
+    "name": "JW Marriott Chandigarh",
+    "address": "Sector 35",
+    "city": "Chandigarh",
+    "price": "₹6000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.9",
+    "reviews": "500+"
+  },
+  {
+    "name": "The Lalit Chandigarh",
+    "address": "IT Park",
+    "city": "Chandigarh",
+    "price": "₹5200/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.7",
+    "reviews": "450+"
+  },
+
+  {
+    "name": "Radisson Blu Ludhiana",
+    "address": "Ferozepur Road",
+    "city": "Ludhiana",
+    "price": "₹5500/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.5",
+    "reviews": "400+"
+  },
+  {
+    "name": "Park Plaza Ludhiana",
+    "address": "Ludhiana",
+    "city": "Ludhiana",
+    "price": "₹4800/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.3",
+    "reviews": "250+"
+  },
+
+  {
+    "name": "Ramada Encore",
+    "address": "Jalandhar",
+    "city": "Jalandhar",
+    "price": "₹4500/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.3",
+    "reviews": "150+"
+  },
+  {
+    "name": "Country Inn Jalandhar",
+    "address": "Jalandhar",
+    "city": "Jalandhar",
+    "price": "₹3800/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.1",
+    "reviews": "180+"
+  },
+
+  {
+    "name": "The Oberoi Udaivilas",
+    "address": "Udaipur",
+    "city": "Udaipur",
+    "price": "₹20000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "9.5",
+    "reviews": "800+"
+  },
+  {
+    "name": "Leela Palace Udaipur",
+    "address": "Lake Pichola",
+    "city": "Udaipur",
+    "price": "₹18000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "9.3",
+    "reviews": "1200+"
+  },
+
+  {
+    "name": "Suryagarh",
+    "address": "Jaisalmer",
+    "city": "Jaisalmer",
+    "price": "₹12000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "9.2",
+    "reviews": "600+"
+  },
+  {
+    "name": "Golden House",
+    "address": "Jaisalmer",
+    "city": "Jaisalmer",
+    "price": "₹7000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.4",
+    "reviews": "250+"
+  },
+
+  {
+    "name": "The Westin Pune",
+    "address": "Koregaon Park",
+    "city": "Pune",
+    "price": "₹8500/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "9.0",
+    "reviews": "600+"
+  },
+
+  {
+    "name": "The Oberoi Grand",
+    "address": "Kolkata",
+    "city": "Kolkata",
+    "price": "₹9000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "9.2",
+    "reviews": "700+"
+  },
+
+  {
+    "name": "Mayfair Waves",
+    "address": "Puri",
+    "city": "Puri",
+    "price": "₹4500/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.3",
+    "reviews": "300+"
+  },
+
+  {
+    "name": "Aloha on Ganges",
+    "address": "Rishikesh",
+    "city": "Rishikesh",
+    "price": "₹6000/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.7",
+    "reviews": "300+"
+  },
+
+  {
+    "name": "The Carlton",
+    "address": "Kodaikanal",
+    "city": "Kodaikanal",
+    "price": "₹7500/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "9.1",
+    "reviews": "500+"
+  },
+
+  {
+    "name": "Savoy Ooty",
+    "address": "Ooty",
+    "city": "Ooty",
+    "price": "₹5200/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.6",
+    "reviews": "350+"
+  },
+
+  {
+    "name": "The Naini Retreat",
+    "address": "Nainital",
+    "city": "Nainital",
+    "price": "₹4200/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "8.4",
+    "reviews": "200+"
+  },
+
+  {
+    "name": "Hotel Mid Town",
+    "address": "Jind",
+    "city": "Jind",
+    "price": "₹2200/night",
+    "link": "https://www.booking.com/",
+    "tier": "Tier 5",
+    "rating": "7.8",
+    "reviews": "120+"
+  },
+  {
+  "name": "Raja Ji Hotel and Restaurant",
+  "address": "Safidon Road, Jind",
+  "city": "Jind",
+  "price": "₹1800/night",
+  "link": "https://www.booking.com/",
+  "tier": "Tier 5",
+  "rating": "8.3",
+  "reviews": "150+"
+},
+{
+  "name": "Hotel Abhinandan",
+  "address": "Gohana Road, Jind",
+  "city": "Jind",
+  "price": "₹2000/night",
+  "link": "https://www.booking.com/",
+  "tier": "Tier 5",
+  "rating": "8.1",
+  "reviews": "100+"
+},
+{
+  "name": "Dalamwala Hotel",
+  "address": "Old Bus Stand, Jind",
+  "city": "Jind",
+  "price": "₹1500/night",
+  "link": "https://www.booking.com/",
+  "tier": "Tier 5",
+  "rating": "7.9",
+  "reviews": "80+"
+},
+{
+  "name": "Bulbul Tourist Complex",
+  "address": "Rani Talab, Jind",
+  "city": "Jind",
+  "price": "₹2300/night",
+  "link": "https://www.booking.com/",
+  "tier": "Tier 5",
+  "rating": "8.4",
+  "reviews": "200+"
+},
+{
+  "name": "Hotel Lakshya Inn",
+  "address": "Jind City, Haryana",
+  "city": "Jind",
+  "price": "₹1700/night",
+  "link": "https://www.booking.com/",
+  "tier": "Tier 5",
+  "rating": "8.2",
+  "reviews": "90+"
+}
+]
